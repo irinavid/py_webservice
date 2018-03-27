@@ -1,2 +1,2 @@
 # py_webservice
-Create a Python/Django webservicesublime
+Create a Python/Django webservice
